@@ -17,8 +17,8 @@ function About() {
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
-            src="/man-svgrepo-com.svg"
-            alt="man-svgrepo"
+            src="/man.png"
+            alt="man"
           />
         </ScrollAnimation>
           <div className="AboutBio">
@@ -29,8 +29,7 @@ function About() {
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            
-            Embarking on the realm of technology ignited from a fervent zeal for troubleshooting, propelling me towards the pursuit of Electrical Engineering. I've long been captivated by technology's capacity to address tangible challenges, enriching lives globally. My affinity gravitates towards computer-centric domains, with Machine Learning and AI capturing my keenest attention. Both within academia and personal endeavors, I strive to immerse myself in these spheres. Presently, I am poised to undertake a Master's journey in Computer Science.
+            Embarking on the realm of technology ignited from a fervent zeal for troubleshooting, propelling me towards the pursuit of Electrical Engineering. I've long been captivated by technology's capacity to address tangible challenges, enriching lives globally. My affinity gravitates towards computer-centric domains, with Machine Learning and AI capturing my keenest attention. Right now I'm striving to immerse myself in these spheres. Presently, I am poised to undertake a Master's journey in Computer Science.
             </ScrollAnimation>
 
             <br /><br />
