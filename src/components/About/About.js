@@ -23,20 +23,20 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Pedro Muniz</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            I'm <strong>Muhammad Anser Sohaib</strong>, an undergraduate student @ NUST . I'm in my junior year of bachelor's degree. I am originally from (Multan) Pakistan and I'm currently living in Islamabad.
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            
+            Embarking on the realm of technology ignited from a fervent zeal for troubleshooting, propelling me towards the pursuit of Electrical Engineering. I've long been captivated by technology's capacity to address tangible challenges, enriching lives globally. My affinity gravitates towards computer-centric domains, with Machine Learning and AI capturing my keenest attention. Both within academia and personal endeavors, I strive to immerse myself in these spheres. Presently, I am poised to undertake a Master's journey in Computer Science.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
+              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in Machine Learning/Deep Learning, cross-platform mobile development.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
