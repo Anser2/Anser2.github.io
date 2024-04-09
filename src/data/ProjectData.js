@@ -1,40 +1,44 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "/Gemini_Generated_Image_g5roktg5roktg5ro.jpeg",
+    title: "Vibrational Analysis of a rotating shaft of a motor using deep learning",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
+      "Testing and training a CNN model for the fault detection of a rotating shaft of a induction motor. This is my end semester project for the course electrical machines",
+    tech_stack: ["Python", "TensorFlow", "NumPy", "Matplotlib"],
     github_url: "",
-    demo_url: "https://youknowtheending.net/",
+    demo_url: "https://github.com/Anser2/Vibrational-Analysis-of-a-rotating-shaft-of-a-motor-using-deep-learning",
   },
   {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    img: "/Gemini_Generated_Image_u88njou88njou88n.jpeg",
+    title: "Churn Prediction in Video Streaming: A Machine Learning Approach",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
-    github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+      "It was a Data Science challenge by Coursera:In this challenge, I predicted video streaming service churn using machine learning on datasets train.csv and test.csv. The task is to train an accurate model, emphasizing the real-world importance of reducing churn.",
+      tech_stack: ["Python", "TensorFlow", "NumPy", "Matplotlib"],
+      github_url: "",
   },
   {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
+    img: "/Gemini_Generated_Image_gndqcfgndqcfgndq.jpeg",
+    title: "GPA Calculator App | Your grade companion.",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
+      "This app is created using react native as a main programming language whereas I also used Google Firebase for authentication on cloud, for future working , we can add api's which directly integrate with university portals to calculate grades rather than putting them manually ourselve.",
+    tech_stack: ["React Native",
+    "NodeJS",
+    "Firebase",
+    "JavaScript",],
+    
+    github_url: "https://github.com/Anser2/GPA-Calculator-App",
   },
   {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
+    img: "/Gemini_Generated_Image_gndqcfgndqcfgndqq.jpeg",
+    title: "Little Lemon Food Ordering App",
     description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
+      "A capstone project which revolves around the idea of a food ordering app. Using Kotlin as main programming language and making network queries using REST API's in Android Studio, I created a food ordering app that allows users to order food from a catalouge.",
+    tech_stack: ["Kotlin",
+    "Jetpack Compose",
+    "Figma",
+    "Android Studio", "REST API"],
+    github_url: "https://github.com/Anser2/little-lemon-food-ordering-app",
   },
   {
     img: "/jobDetect.png",
@@ -62,9 +66,26 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg",
     name: "C++",
   },
-  { img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg", 
-  name: "C#",
- },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg", 
+    name: "C#",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg",
+    name: "TensorFlow",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg",
+    name: "Pandas",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg",
+    name: "NumPy",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg",
+    name: "Matplotlib",
+  },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
     name: "JavaScript",
@@ -79,14 +100,15 @@ export const stackList = [
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-    name: "Typescript",
+    name: "TypeScript",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
   },
-  { img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
-   name: "GitHub", 
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
+    name: "GitHub", 
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
@@ -112,7 +134,18 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
     name: "VS Code",
   },
-  { img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg", 
-  name: "MATLAB",
- },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg", 
+    name: "MATLAB",
+  },
+  { img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg", 
+  name: "Android Studio", },
+   { img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg", 
+   name: "Kotlin", }, 
+   { img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg", 
+   name: "Jetpack Compose", }, 
+   { img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/restapi/restapi-original.svg", 
+   name: "REST API", }, 
+
+
 ];
