@@ -17,8 +17,8 @@ function About() {
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
-            src="/man.png"
-            alt="man"
+            src="/man-svgrepo-com.svg"
+            alt="man-svgrepo-com"
           />
         </ScrollAnimation>
           <div className="AboutBio">
