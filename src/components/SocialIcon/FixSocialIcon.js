@@ -58,7 +58,7 @@ function FixSocialIcon() {
         <ul>
           <li className="item">
             <a
-              href="https://www.linkedin.com/in/ansersohaib/"
+              href="https://www.linkedin.com/in/pedro-sales-muniz"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -67,14 +67,13 @@ function FixSocialIcon() {
           </li>
           <li className="item">
             <a
-              href="https://github.com/Anser2"
+              href="https://github.com/salesp07"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaGithub />
             </a>
           </li>
-          
         </ul>
       </ScrollAnimation>
     </SocialContainer>
