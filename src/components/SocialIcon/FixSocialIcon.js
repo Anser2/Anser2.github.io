@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaYoutube } from "react-icons/fa";
 import styled from "@emotion/styled";
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -21,7 +21,7 @@ const SocialContainer = styled.div`
     font-size: 2.3rem;
     color: rgb(119, 119, 121);
     &:hover {
-      color: rgb(57, 134, 250);
+      color: rgb(253, 127, 57);
     }
   }
 
@@ -41,7 +41,7 @@ const SocialContainer = styled.div`
       font-size: 2.5rem;
       color: #151418;
       &:hover {
-        color: rgb(57, 134, 250);
+        color: rgb(253,127,57);
       }
     }
 
@@ -58,7 +58,7 @@ function FixSocialIcon() {
         <ul>
           <li className="item">
             <a
-              href="https://www.linkedin.com/in/pedro-sales-muniz"
+              href="https://www.linkedin.com/in/ansersohaib/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -67,11 +67,20 @@ function FixSocialIcon() {
           </li>
           <li className="item">
             <a
-              href="https://github.com/salesp07"
+              href="https://github.com/Anser2"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaGithub />
+            </a>
+          </li>
+          <li className="item">
+            <a
+              href="https://www.youtube.com/channel/UCPz5vMRbSWq-YNTvD5wUfTQ"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaYoutube />
             </a>
           </li>
         </ul>

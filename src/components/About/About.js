@@ -23,7 +23,10 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            I'm <strong>Muhammad Anser Sohaib</strong>, an undergraduate student @ NUST . I'm in my junior year of bachelor's degree. I am originally from (Multan) Pakistan and I'm currently living in Islamabad.
+            I'm <strong>Muhammad Anser Sohaib</strong>, an undergraduate student @ NUST . I'm in my junior year of bachelor's degree. I am originally from Multan (Pakistan) and I'm currently living in Islamabad.
+            My favorite sport is - Football ⚽
+            My favorite TV show is - The Mandalorian 🚀
+            My Hobbies are - Playing Video Games 🎮, swimming 🏊‍♂️ and horse riding 🐎
             </ScrollAnimation>
 
             <br /><br />
