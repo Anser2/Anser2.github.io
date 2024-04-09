@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub} from "react-icons/fa";
 import styled from "@emotion/styled";
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -74,15 +74,7 @@ function FixSocialIcon() {
               <FaGithub />
             </a>
           </li>
-          <li className="item">
-            <a
-              href="https://www.youtube.com/@xenonx4645"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FaYoutube />
-            </a>
-          </li>
+          
         </ul>
       </ScrollAnimation>
     </SocialContainer>
