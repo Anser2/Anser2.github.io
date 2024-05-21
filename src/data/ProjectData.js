@@ -26,6 +26,15 @@ export const ProjectList = [
     demo_url: ""
   },
   {
+    img: "/11-Reasons-PulseTalk.jpeg",
+    title: "PulseTalk: A Real-Time Chat Application",
+    description: "A Python-based chat room featuring user authentication, messaging, file transfer, and blocking capabilities, with a user-friendly Tkinter GUI and SQLite integration for secure storage.",
+    tech_stack: ["Python", "SQL", "VS Code", "Wireshark"],
+    github_url: "https://github.com/Anser2/PulseTalk",
+    demo_url: ""
+  },
+
+  {
     img: "/Gemini_Generated_Image_gndqcfgndqcfgndqq.jpeg",
     title: "Little Lemon Food Ordering App",
     description: "A capstone project focusing on a food ordering app. Developed using Kotlin as the main programming language and making network queries using REST APIs in Android Studio, the app allows users to order food from a catalog.",
@@ -79,4 +88,5 @@ export const stackList = [
   { img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg", name: "Kotlin" },
   { img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg", name: "Jetpack Compose" },
   { img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/restapi/restapi-original.svg", name: "REST API" },
+  { img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg", name: "Wireshark" },
 ];
